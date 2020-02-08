@@ -1,4 +1,6 @@
-package teste;
+package solution.impl;
+
+import solution.Solution;
 
 public class SolutionImpl implements Solution{
 

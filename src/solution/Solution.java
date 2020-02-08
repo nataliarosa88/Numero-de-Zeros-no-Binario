@@ -1,4 +1,4 @@
-package teste;
+package solution;
 
 public interface Solution {
 	
